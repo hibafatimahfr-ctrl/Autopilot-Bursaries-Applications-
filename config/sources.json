@@ -1,0 +1,5 @@
+[
+  {"name":"Scholarship Canada search feed (example placeholder)","type":"rss","url":"","enabled":false,"notes":"Supply a legitimate RSS/Atom feed URL if available"},
+  {"name":"University of Waterloo awards","type":"links","url":"https://uwaterloo.ca/student-awards-financial-aid/","enabled":true,"notes":"Official starting point; curated listings below must be verified individually"},
+  {"name":"External scholarships","type":"links","url":"https://www.scholarshipscanada.com/","enabled":true,"notes":"Discovery portal; do not scrape gated content"}
+]

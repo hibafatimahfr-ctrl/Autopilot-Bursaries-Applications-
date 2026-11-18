@@ -1,0 +1,12 @@
+{
+  "student_status": "undergraduate",
+  "country": "Canada",
+  "province": "Ontario",
+  "institution": "University of Waterloo",
+  "program_keywords": ["engineering", "nanotechnology", "STEM", "data analytics"],
+  "interests": ["community service", "volunteering", "women in STEM", "leadership", "humanitarian"],
+  "graduate_start_year": 2027,
+  "minimum_amount_cad": 0,
+  "include_need_based": true,
+  "notes": "Edit these fields; do not put financial records, student numbers, or passwords here."
+}
